@@ -36,8 +36,8 @@ git clone https://github.com/nataliatsi/java-estrutura-de-dados.git
 2. Importe o projeto na sua IDE
 
 3. Navegue pelas pastas e escolha um exercício para começar:
-   - `/src/exercicios`
-   - `/src/desafios`
+   - `/src/main/java/com/github/nataliatsi/streams/exercicios`
+   - `/src/main/java/com/github/nataliatsi/streams/desafios`
 
 4. Rode a classe com o método `main()` e explore os comentários
 
