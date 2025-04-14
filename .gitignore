@@ -1,0 +1,6 @@
+# Pasta de build
+/target/
+
+# Configurações do Visual Studio Code
+/.vscode/
+
