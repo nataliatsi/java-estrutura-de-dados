@@ -1,11 +1,11 @@
-package com.github.nataliatsi.steams.exercicios.service;
+package com.github.nataliatsi.streams.exercicios.service;
 
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
-import com.github.nataliatsi.steams.exercicios.Produto;
+import com.github.nataliatsi.streams.exercicios.Produto;
 
 public class ProdutoService {
 

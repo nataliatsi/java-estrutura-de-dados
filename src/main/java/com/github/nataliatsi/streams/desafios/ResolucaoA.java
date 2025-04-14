@@ -1,4 +1,4 @@
-package com.github.nataliatsi.steams.desafios;
+package com.github.nataliatsi.streams.desafios;
 
 import java.util.List;
 import java.util.stream.Collectors;

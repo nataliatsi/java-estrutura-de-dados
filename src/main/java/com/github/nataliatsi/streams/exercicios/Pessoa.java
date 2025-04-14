@@ -1,4 +1,4 @@
-package com.github.nataliatsi.steams.exercicios;
+package com.github.nataliatsi.streams.exercicios;
 
 public class Pessoa {
 

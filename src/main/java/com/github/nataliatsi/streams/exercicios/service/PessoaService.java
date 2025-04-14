@@ -1,10 +1,10 @@
-package com.github.nataliatsi.steams.exercicios.service;
+package com.github.nataliatsi.streams.exercicios.service;
 
 import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import com.github.nataliatsi.steams.exercicios.Pessoa;
+import com.github.nataliatsi.streams.exercicios.Pessoa;
 
 public class PessoaService {
 
